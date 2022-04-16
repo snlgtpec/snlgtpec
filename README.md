@@ -4,7 +4,7 @@
 |Name |snlgtpec |
 |Twitter |@snlgtpec |
 |note |@snlgtpec |
-|languages |C(Simulink), C++, Python, Kotlin |
+|Languages |C(Simulink), C++, Python, Kotlin |
 |Tools |to be updated |
 |Interest |美味しいものを食べる、お笑い、スポーツ観戦、たわいもない会話 |
 |Status |to be updated |
