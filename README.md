@@ -8,11 +8,6 @@
 |Tools |to be updated |
 |Interest |美味しいものを食べる、お笑い、スポーツ観戦、たわいもない会話 |
 |Status |to be updated |
-<p>
-  <a href="https://twitter.com/snlgtpec" target="_blank">
-    <img alt="Twitter: こざら" src="https://img.shields.io/twitter/follow/snlgtpec.svg?style=social" />
-  </a>
-</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=snlgtpec&count_private=true&show_icons=true&theme=dracula" />
