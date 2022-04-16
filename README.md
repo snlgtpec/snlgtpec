@@ -6,7 +6,7 @@
 |note |@snlgtpec |
 |languages |C(Simulink), C++, Python, Kotlin |
 |Tools |to be updated |
-|Interest |美味しいものを食べる、お笑い、スポーツ観戦 |
+|Interest |美味しいものを食べる、お笑い、スポーツ観戦、たわいもない会話 |
 
 <!--
 **snlgtpec/snlgtpec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
