@@ -4,9 +4,9 @@
 |Name |snlgtpec |
 |Twitter |@snlgtpec |
 |note |@snlgtpec |
-|Languages |C(Simulink), C++, Python, Kotlin |
+|Languages |C, C++, Python, Kotlin |
 |Tools |to be updated |
-|Interest |美味しいものを食べる、お笑い、スポーツ観戦 |
+|Interest |食事、お笑い、スポーツ観戦 |
 |Status |to be updated |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
