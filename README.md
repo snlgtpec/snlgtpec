@@ -6,7 +6,7 @@
 |note |@snlgtpec |
 |Languages |C, C++, Python, Kotlin |
 |Tools |to be updated |
-|Interest |食事、お笑い、スポーツ観戦 |
+|Interest |Eating、Comedy show、watching sports |
 |Status |to be updated |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
