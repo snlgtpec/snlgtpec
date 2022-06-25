@@ -5,9 +5,9 @@
 |Twitter |@snlgtpec |
 |note |@snlgtpec |
 |Languages |C, C++, Python, Kotlin |
-|Tools |to be updated |
+|Tools |many |
 |Interest |Eating, Comedy show, Watching sports, Talking with people |
-|Status |to be updated |
+|Status |I'm craving something sweet! |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=snlgtpec&count_private=true&show_icons=true&theme=dracula" />
