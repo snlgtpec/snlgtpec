@@ -1,9 +1,9 @@
 ### Hi there 👋
 |attribute|value|
 |:---|:---|
-|Name |snlgtpec |
-|Twitter |@snlgtpec |
-|Zenn |@snlgtpec |
+|Name |kokoyo |
+|Twitter |[@snlgtpec](https://twitter.com/snlgtpec) |
+|Zenn |[@snlgtpec](https://zenn.dev/snlgtpec) |
 |Languages |C, C++, Python, Kotlin |
 |Tools |many |
 |Interest |Eating, Comedy show, Watching sports, Talking with people |
