@@ -3,11 +3,11 @@
 |:---|:---|
 |Name |snlgtpec |
 |Twitter |@snlgtpec |
-|note |@snlgtpec |
+|Zenn |@snlgtpec |
 |Languages |C, C++, Python, Kotlin |
 |Tools |many |
 |Interest |Eating, Comedy show, Watching sports, Talking with people |
-|Status |I'm craving something sweet! |
+|Status |I'm craving something sweet! :cake: |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=snlgtpec&count_private=true&show_icons=true&theme=dracula" />
