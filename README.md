@@ -2,7 +2,6 @@
 |attribute|value|
 |:---|:---|
 |Name |kokoyo |
-|Twitter |[@snlgtpec](https://twitter.com/snlgtpec) |
 |Zenn |[@snlgtpec](https://zenn.dev/snlgtpec) |
 |Languages |C, C++, Python, Kotlin |
 |Tools |many |
