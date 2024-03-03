@@ -3,9 +3,9 @@
 |:---|:---|
 |Name |kokoyo |
 |Zenn |[@snlgtpec](https://zenn.dev/snlgtpec) |
-|Languages |C, C++, Python, Kotlin |
+|Languages |C, C++, Python, Kotlin, Java, Swift, Go |
 |Tools |many |
-|Interest |Eating, Comedy show, Watching sports, Talking with people |
+|Interest |Eating, Watching sports/comedy |
 |Status |I'm craving something sweet! :cake: |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
